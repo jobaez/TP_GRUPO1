@@ -1,5 +1,5 @@
 Documentación Breve del Proyecto Aplicación Android para gestionar el registro de productos destinados a la venta.
-Repositorio: https://github.com/jobaez/TP_GRUPO1.git 
+Repositorio: https://github.com/jobaez/UAA-PAPDM-Grupo-1-TP-1
 Estructura del Proyecto
 Este proyecto utiliza Jetpack Compose para la interfaz de usuario y Coil para cargar imágenes desde URLs.
 Estructura de carpetas:
